@@ -86,7 +86,7 @@ Cloud-Monitoring-Dashboard/
     ├── Alarm OK.png
     ├── Email.png
     ├── SNS.png
-    └── cpu-load-test.png
+    └── ec2-Process.png
 ```
 
 ---
