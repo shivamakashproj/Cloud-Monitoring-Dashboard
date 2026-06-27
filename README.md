@@ -82,10 +82,10 @@ Cloud-Monitoring-Dashboard/
 │
 └── screenshots/
     ├── dashboard.png
-    ├── alarm-triggered.png
-    ├── alarm-ok.png
-    ├── email-notification.png
-    ├── sns-topic.png
+    ├── Alarm.png
+    ├── Alarm OK.png
+    ├── Email.png
+    ├── SNS.png
     └── cpu-load-test.png
 ```
 
